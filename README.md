@@ -17,6 +17,10 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 
 ## Week 2
 
-you will learn in detail how to make calls to the Foursquare API for different purposes. You will learn how to use a URL to send a request to the API to search for a specific type of venues, to explore a particular venue, to explore a Foursquare user, to explore a geographical location, and to get trending venues around a location. Also, you will learn how to use the visualization library, Folium, to visualize the results.
+You will learn in detail how to make calls to the Foursquare API for different purposes. You will learn how to use a URL to send a request to the API to search for a specific type of venues, to explore a particular venue, to explore a Foursquare user, to explore a geographical location, and to get trending venues around a location.
+
+Also, you will learn how to use the visualization library, Folium, to visualize the results.
+
+Foursquare API Exercise Notebook Link: https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Foursquare-API-py-v2.0.ipynb
 
 ## ---
