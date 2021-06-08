@@ -34,3 +34,5 @@ There are many models for clustering out there. In this lab, we will be presenti
 Despite its simplicity, *K*-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
 
 Clustering Exercise Notebook Link:
+
+## ---
