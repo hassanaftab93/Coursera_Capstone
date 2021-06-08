@@ -31,6 +31,8 @@ https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Foursquare-API-py-v
 
 ## Week 3: K-means Clustering and Segmenting
 
+### Lab 1: Clustering
+
 There are many models for clustering out there. In this lab, we will be presenting the model that is considered the one of the simplest model among them. 
 
 Despite its simplicity, *K*-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
