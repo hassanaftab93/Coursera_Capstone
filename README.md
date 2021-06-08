@@ -11,7 +11,9 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 2. Import the pandas library as pd.
 3. Import the Numpy library as np.
 4. Print the following the statement: Hello Capstone Project Course!
-5. Push the Notebook to your Github repository and submit a link to the     notebook on your Github repository.
+5. Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
+
+Coursera Capstone Week 1 Exercise Notebook Link: https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project.ipynb
 
 ## ---
 
