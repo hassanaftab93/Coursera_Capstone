@@ -12,3 +12,11 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 3. Import the Numpy library as np.
 4. Print the following the statement: Hello Capstone Project Course!
 5. Push the Notebook to your Github repository and submit a link to the     notebook on your Github repository.
+
+## ---
+
+## Week 2
+
+you will learn in detail how to make calls to the Foursquare API for different purposes. You will learn how to use a URL to send a request to the API to search for a specific type of venues, to explore a particular venue, to explore a Foursquare user, to explore a geographical location, and to get trending venues around a location. Also, you will learn how to use the visualization library, Folium, to visualize the results.
+
+## ---
