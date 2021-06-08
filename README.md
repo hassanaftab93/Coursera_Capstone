@@ -49,6 +49,6 @@ You will use the _k_-means clustering algorithm to complete this task.
 Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters.
 
 Segmentation Exercise Notebook Link:
-
+https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Segmentation-Neighborhoods-New-York.ipynb
 
 ## ---
