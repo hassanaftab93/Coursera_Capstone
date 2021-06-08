@@ -53,4 +53,20 @@ Finally, you will use the Folium library to visualize the neighborhoods in New Y
 Segmentation Exercise Notebook Link:
 https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Segmentation-Neighborhoods-New-York.ipynb
 
+### Project Submission: Segmentation and Clustering of Neighborhoods in Toronto
+
+In this lab, you will convert addresses into their equivalent latitude and longitude values. Also, you will use the Foursquare API to explore neighborhoods in Toronto.
+
+Explore and cluster the neighborhoods in Toronto. You can decide to work with only boroughs that contain the word Toronto and then replicate the same analysis we did to the New York City data. It is up to you. 
+
+Just make sure:
+
+1. To add enough Markdown cells to explain what you decided to do and to report any observations you make. 
+2. To generate maps to visualize your neighborhoods. 
+3. You will use the _k_-means clustering algorithm to complete this task.
+4. Finally, you will use the Folium library to visualize the neighborhoods in Toronto and their emerging clusters.
+
+Project Notebook Link:
+https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto
+
 ## ---
