@@ -75,12 +75,19 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 
 ### Week 4 - Part 1: 
 
+## Review Criteria
+
 1. A description of the problem and a discussion of the background.
+
+Business Proposal Link:
+
+
 2. A description of the data and how it will be used to solve the problem.
 
-### Week 4 - Part 2:
+Data Description Link:
 
-1. A full report consisting of all of the following components:
+
+3. A full report consisting of all of the following components:
 
 <li> Introduction where you discuss the business problem and who would be interested in this project.</li>
 <li> Data where you describe the data that will be used to solve the problem and the source of the data.</li>
@@ -89,6 +96,10 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 <li> Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.</li>
 <li> Conclusion section where you conclude the report.</li>
 <br>
+<br>
 2. Your choice of a presentation or blogpost.
+
+Final Report Link:
+
 
 ## ---
