@@ -70,3 +70,25 @@ Project Notebook Link:
 https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto
 
 ## ---
+
+## Week 4: Capstone Project: Battle of the Neighborhoods
+
+### Week 4 - Part 1: 
+
+1. A description of the problem and a discussion of the background.
+2. A description of the data and how it will be used to solve the problem.
+
+### Week 4 - Part 2:
+
+1. A full report consisting of all of the following components:
+
+<li> Introduction where you discuss the business problem and who would be interested in this project.</li>
+<li> Data where you describe the data that will be used to solve the problem and the source of the data.</li>
+<li> Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.</li>
+<li> Results section where you discuss the results.</li>
+<li> Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.</li>
+<li> Conclusion section where you conclude the report.</li>
+    
+2. Your choice of a presentation or blogpost.
+
+## ---
