@@ -14,6 +14,7 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 5. Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
 Coursera Capstone Week 1 Exercise Notebook Link:
+<br>
 https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project.ipynb
 
 ## ---
@@ -25,6 +26,7 @@ You will learn in detail how to make calls to the Foursquare API for different p
 Also, you will learn how to use the visualization library, Folium, to visualize the results.
 
 Foursquare API Exercise Notebook Link:
+<br>
 https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Foursquare-API-py-v2.0.ipynb
 
 ## ---
@@ -38,6 +40,7 @@ There are many models for clustering out there. In this lab, we will be presenti
 Despite its simplicity, *K*-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
 
 Clustering Exercise Notebook Link:
+<br>
 https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Capstone-Clustering-k-means.ipynb
 
 ### Lab 2: Segmentation of Neighborhoods in NY City
@@ -51,6 +54,7 @@ You will use the _k_-means clustering algorithm to complete this task.
 Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters.
 
 Segmentation Exercise Notebook Link:
+<br>
 https://github.com/hassanaftab93/Jupyter-Notebooks/blob/main/Segmentation-Neighborhoods-New-York.ipynb
 
 ### Project Submission: Segmentation and Clustering of Neighborhoods in Toronto
@@ -67,6 +71,7 @@ Just make sure:
 4. Finally, you will use the Folium library to visualize the neighborhoods in Toronto and their emerging clusters.
 
 Project Notebook Link:
+<br>
 https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto
 
 ## ---
@@ -80,11 +85,13 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 1. A description of the problem and a discussion of the background.
 
 Business Proposal Link:
+<br>
 https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-BusinessProposal.ipynb
 
 2. A description of the data and how it will be used to solve the problem.
 
 Data Description Link:
+<br>
 https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-DataDescription.ipynb
 
 3. A full report consisting of all of the following components:
@@ -105,6 +112,6 @@ https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-DataDescri
 2. Your choice of a presentation or blogpost.
 
 Final Report Link:
-
+<br>
 
 ## ---
