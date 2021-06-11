@@ -119,6 +119,6 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 <br>
 Final Report Link:
 <br>
-
+https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-BattleOfTheNeighborhoods-Report.ipynb
 
 ## ---
