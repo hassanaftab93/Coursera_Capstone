@@ -88,7 +88,7 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 <li> Results section where you discuss the results.</li>
 <li> Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.</li>
 <li> Conclusion section where you conclude the report.</li>
-    
+<br>
 2. Your choice of a presentation or blogpost.
 
 ## ---
