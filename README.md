@@ -113,7 +113,7 @@ https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-DataDescri
 Battle Of The Neighborhoods Analysis Notebook Link:
 <br>
 https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-BattleOfTheNeighborhoods-FindingABetterPlaceInToronto.ipynb
-
+<br>
 Final Report Link:
 <br>
 
