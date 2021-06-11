@@ -80,20 +80,25 @@ https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Ca
 1. A description of the problem and a discussion of the background.
 
 Business Proposal Link:
-
+https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-BusinessProposal.ipynb
 
 2. A description of the data and how it will be used to solve the problem.
 
 Data Description Link:
-
+https://github.com/hassanaftab93/Coursera_Capstone/blob/main/Capstone-DataDescription.ipynb
 
 3. A full report consisting of all of the following components:
 
 <li> Introduction where you discuss the business problem and who would be interested in this project.</li>
+
 <li> Data where you describe the data that will be used to solve the problem and the source of the data.</li>
+
 <li> Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.</li>
+
 <li> Results section where you discuss the results.</li>
+
 <li> Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.</li>
+
 <li> Conclusion section where you conclude the report.</li>
 <br>
 <br>
